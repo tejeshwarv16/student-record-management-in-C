@@ -1,5 +1,3 @@
-Here is a sample README.md for the student record system code:
-
 # Student Record System
 
 This is a simple console-based student record system implemented in C.
